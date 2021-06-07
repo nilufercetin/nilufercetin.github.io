@@ -29,7 +29,7 @@ Packages: numpy, matplotlib.pyplot, scipy
 
 ## BOUN AI - Bogazici University Artificial Intelligence Community / Spring 2021
 
-[This](https://nilufercetin.github.io/BOUN-AI-Tasks/) is an ongoing series of tasks starting from basic data manipulation and visualization to applications of well-known statistical learning techniques.
+[This](https://nilufercetin.github.io/Bogazici-AI-Tasks/) is an ongoing series of tasks starting from basic data manipulation and visualization to applications of well-known statistical learning techniques.
 
 Language: Python
 
